@@ -1,0 +1,13 @@
+#mytitle{
+    width: 800px;
+    height: 100px;
+    border: 2px solid #333; /* Couleur de la bordure */
+    padding: 20px; /* Espacement interne */
+    background-color: #f0f0f0; /* Couleur de fond */
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 350px;
+}
+h1{
+    color:chocolate
+}
